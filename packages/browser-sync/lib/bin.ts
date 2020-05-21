@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 const startOpts = require("../cli-options/opts.start.json");
 const reloadOpts = require("../cli-options/opts.reload.json");
 const recipeOpts = require("../cli-options/opts.recipe.json");
